@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, abort, request, make_response
 import numpy as np
 from word2vecPreprocess import preproccess_data, tokenizer,pad_sequences,model,maxlen
+import os
 
 app = Flask(__name__)
 PORT=5000
