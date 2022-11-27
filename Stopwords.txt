@@ -1,0 +1,7 @@
+#articulos
+el,la,lo,las,los,uno,una,unos,unas
+#pronombres
+yo,tu,ella,usted,nosotros,nosotras,vosotros,vosotras,ellos,ellas,ustedes,me,te,lo,la,nos,os,los,las,me,te,le,se,les,se
+mí,ti,usted,él,ella,nosotros,nosotras,vosotros,vosotras,ellos,ellas,ustedes,sí,quien,quienes,cuyo,cuya,cuyos,cuyas,cuanto,cuanta,cuantos,cuantas,mío,mía,míos,mías,tuyo,tuya,tuyos,tuyas,suyo,suya,suyos,suyas,nuestro,nuestra,nuestros,nuestras,vuestro,vuestra,vuestros,vuestras
+mí,mis,tu,tus,su,sus,nuestro,nuestra,nuestros,nuestras,vuestro,vuestra,vuestros,vuestras,este,ese,aquel,estos,esos,aquellos,esta,esa,aquella,estas,esas,aquella
+ellos,ellas,aquellos,aquellas,esos,esas,eso,esa,a,ante,cabe,con,contra,de,desde,en,entre,hacia,hasta,para,por,según,so,sobre,tras
