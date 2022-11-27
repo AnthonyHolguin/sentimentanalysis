@@ -52,4 +52,4 @@ def predictComments():
     return make_response(jsonify({'polaridades' : predictedTexto}), 200)
 
 if __name__ == '__main__':
-  app.run(port = PORT, debug = DEBUG)
+  app.run(debug = DEBUG,host='0.0.0.0', port=os.getenv("PORT", default=5000))
